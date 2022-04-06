@@ -1,0 +1,15 @@
+@charset "UFT-8";
+
+body{
+   background-color: aqua;
+   background-image: linear-gradient(to right,aqua, white);
+}
+h1{
+    text-align: center;
+    font-family: monospace;
+}
+aside{
+    background-image: linear-gradient(to right,rgb(18,187,131), white);
+    text-align: center;
+    background-color: rgb(18, 187, 131);
+}
